@@ -1,0 +1,117 @@
+.body{
+	width: 100%;
+    max-width: 1000px;
+	margin: 8px;
+}
+
+.p__header{
+	position: relative;
+}
+
+.img{
+	height: 100%;
+	position: absolute;	
+    
+}
+.img__apple{
+    position: absolute;
+    top: 160px;
+    left: 835px;
+	height: 48%;
+    width: 33%;
+}
+
+.img__buble{
+   	position: absolute;	
+	 top: 260px;
+    left: 100px;
+    height: 35%;
+    width: 35%;   
+    }
+
+.img__glass {
+    position: absolute;	
+	 top: 273px;
+    left: 485px;
+    height: 23%;
+    width: 27%;
+    
+}
+
+.img__see {
+position: absolute;	
+top: 443px;
+    left: 553px;
+    height: 5%;
+    width: 17%;	 
+
+}
+
+.img__cercl {
+position: absolute;	
+top: 615px;
+    left: 655px;
+    height: 6%;
+    width: 1.5%;	 
+
+}
+
+.img__line {
+position: absolute;	
+top: 500px;
+    left: 650px;
+    height: 26%;
+    	 
+
+}
+
+.img__line2 {
+position: absolute;	
+top: 670px;
+    left: 650px;
+    height: 26%;
+}
+
+.img__cercl_little1 {
+    position: absolute;
+   top: 310px;
+    left: 1257px; 
+    }
+
+.img__cercl_L1 {
+    height: 85%;
+    width: 85%;
+    opacity: 0.3;
+}
+
+.img__home {
+    position: absolute;
+    top: 42px;
+    left: 145px;
+    height: 37px;
+    width: 85px;
+}
+
+.menu {
+  position: absolute; 
+    top: 50px;
+    left: 150px;
+}
+
+.menuAll {
+  text-decoration: none;
+  font: arial;  
+  margin: 15px;  
+}
+
+.main_text {
+ position: absolute;
+    top: 150px;
+    left: 450px;   
+    
+}
+
+.main_text1 {
+    font-size: 40px;
+    
+}
